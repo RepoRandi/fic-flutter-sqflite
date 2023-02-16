@@ -1,4 +1,4 @@
-# flutter_binar_sqflite
+# Flutter Intensive Club Batch 2 - Gmeet 4 
 
 A new Flutter project.
 
